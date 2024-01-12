@@ -1,0 +1,17 @@
+.input-wrapper {
+  position: relative;
+}
+.mask {
+  white-space: pre-wrap;
+  font-family: Arial;
+  line-height: normal;
+  font-size: 13.3333px;
+  top: 3px;
+  left: 109px;
+  font-stretch: 100%;
+  position: absolute;
+  font-weight: normal;
+}
+.phone {
+  font-weight: bold;
+}
